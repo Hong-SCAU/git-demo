@@ -15,4 +15,4 @@ hello wangzhuohong!hello git!
 hello wangzhuohong!hello git!
 hello wangzhuohong!hello git!
 hello wangzhuohong!hello git!
-hello wangzhuohong!hello git!
+hello wangzhuohong!hello git! hot-fix test
